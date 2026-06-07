@@ -89,26 +89,7 @@ Models are evaluated using standard NLG (Natural Language Generation) metrics:
 
 ---
 
-## 📈 Results
 
-> See `overall_results/` folder for detailed comparison outputs.
-
-| Model | BLEU | ROUGE-L | BERTScore |
-|-------|------|---------|-----------|
-| BART | - | - | - |
-| Gemini | - | - | - |
-| Mistral | - | - | - |
-
-*(Fill in your actual scores from overall_results/)*
-
----
-
-## 🔍 Key Findings
-
-- *(Add your key observations after comparing models)*
-- *(e.g., "Gemini produced more fluent descriptions but BART was more faithful to table values")*
-
----
 
 ## 📚 References
 
